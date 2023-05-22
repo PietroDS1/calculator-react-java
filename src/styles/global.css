@@ -23,7 +23,6 @@ main {
     flex-direction: column;
     justify-content: space-between;
     background-color: #0a0a0a;
-    min-width: 25rem;
     border-radius:1rem ;
     padding:1rem;
     flex: 1;   
