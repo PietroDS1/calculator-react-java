@@ -15,7 +15,7 @@ export const Body = () => {
         <section className="body">
             <p>{visorValue}</p>
             <Visor />
-            <div className="numpad">
+            <div className="numpad"> 
             {NUMPAD_SYMBOLS.map((value,index) => (
                 <Button label={value} value={value} 
                     data-aria-value={value} key={index}
